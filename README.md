@@ -1,7 +1,8 @@
 # Ankit Garg
 
 ## Work Experience
-* Software Engineer, Microsoft
+* Software Engineer, Microsoft (July 2021 - Present)
+* Summer Analyst, Goldman Sachs (Summer 2020)
 
 ## Education
-* Bachelor of Technology in Electrical Engineering from IIT Delhi (2021)
+* Bachelor of Technology in Electrical Engineering from IIT Delhi (2017 - 2021)
