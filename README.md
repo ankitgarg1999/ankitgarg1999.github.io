@@ -1,6 +1,5 @@
 # Ankit Garg
-
-![alt text](https://github.com/ankitgarg1999/ankitgarg1999.github.io/blob/master/Images/avatar-icon.png)
+![Avatar Pic](/Images/avatar-icon.jpg)
 
 ## Research Interests
 * Reinforcement Learning
