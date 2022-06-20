@@ -1,5 +1,9 @@
 # Ankit Garg
 
+## Research Interests
+* Reinforcement Learning
+* Natural Language Processing
+
 ## Work Experience
 * Software Engineer, Microsoft (July 2021 - Present)
 * Summer Analyst, Goldman Sachs (Summer 2020)
